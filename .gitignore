@@ -1,0 +1,8 @@
+# Credentials and local editor state are never product definitions.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.vscode/
+.idea/
